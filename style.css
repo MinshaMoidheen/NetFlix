@@ -99,15 +99,15 @@ option{
     margin: 0%;
   }
   .navbar-toggler{
-    background-color: white ;
+    background-color: rgb(82, 82, 82) ;
   }
   .navbar-toggler-icon{
     display: inline-block;
-    background-color: #fff;
+    background-color:rgb(82, 82, 82);
     border-radius: 2px;
     padding-left: 5px;
     padding-right: 5px;
-    color: #fff  !important;
+    color: rgb(62, 61, 61);
   }
   .main-search-sub {
     width: 400px;
